@@ -8,7 +8,7 @@ Graphs
 -----
 Here is a list of all the saved graph
 
-- *[mRS_graph]()* - Used in stroke clinical reasearch, the modified Rankin Scale is scale from 0 to 6 evaluating handicap after a stroke. It is usually represented as "Grotta bars", i.e. horizontal stacked histograms to emphasize mRS shift after an intervention.
+- *[mRS_graph](https://github.com/ElijT/R-graphs/blob/main/mRS.R)* - Used in stroke clinical reasearch, the modified Rankin Scale is scale from 0 to 6 evaluating handicap after a stroke. It is usually represented as "Grotta bars", i.e. horizontal stacked histograms to emphasize mRS shift after an intervention.
 - 
 
 
